@@ -13,7 +13,7 @@ ac = ac;
 av = av;
 
 printf("\t********** Welcome to Our New custom C-Shell **********\n\n");
-printf("\t\t********** Made for ALX Kenya **********\n\n");
+printf("\t\t*******written by Benedicta Nwachukwu and Amara Onwunzo*****\n\n");
 shell_loop();
 return (EXIT_SUCCESS);
 }
